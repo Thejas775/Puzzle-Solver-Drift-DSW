@@ -4,7 +4,7 @@ import numpy as np
 from puzzle import solve_calendar, BOARD_LAYOUT, ROWS, COLS
 
 def create_streamlit_app():
-    st.title("Calendar Puzzle Solver. Made by Thejas and Arya only for DSW")
+    st.title("Calendar Puzzle Solver. Made by Thejas and Arya")
     
     st.write("""
     This app solves the calendar puzzle by finding a way to cover all squares except for a chosen month and date.
