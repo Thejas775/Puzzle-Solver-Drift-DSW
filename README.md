@@ -1,4 +1,4 @@
-# Puzzle Solver Drift from DSW
+# Puzzle Solver Drift 
 
 ## Overview
 Puzzle Solver Drift from DSW is a **calendar puzzle solver** that determines how to arrange a set of given pieces on a **7x7 grid**, leaving only a specific month and day uncovered. The project includes a **backtracking algorithm** to find valid solutions and a **Streamlit-based web application** for an interactive user experience.
