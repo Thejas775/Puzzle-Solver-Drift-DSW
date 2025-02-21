@@ -71,7 +71,7 @@ The **Streamlit app** provides:
 (`UN` means uncovered; `..` means unused space.)
 
 ## Authors
-Developed by **Thejas and Arya** exclusively for **DSW**.
+Developed by **Thejas and Arya**.
 
 ## License
 This project is licensed under the MIT License.
